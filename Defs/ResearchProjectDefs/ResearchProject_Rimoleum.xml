@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ======= Tab =================== -->
+  <ResearchTabDef>
+    <defName>RimoleumTab</defName>
+    <label>Rimoleum</label>
+  </ResearchTabDef>
+  <!-- ======== Projects ============== -->
+  <ResearchProjectDef>
+    <defName>Rimoleum</defName>
+    <label>Rimoleum flooring</label>
+    <description>Grants the ability to make and lay Rimoleum flooring.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Spacer</techLevel>
+    <prerequisites>
+      <li>CarpetMaking</li>
+      <li>BiofuelRefining</li>
+      <li>SterileMaterials</li>
+    </prerequisites>
+    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+    <tab>RimoleumTab</tab>
+  </ResearchProjectDef>
+</Defs>

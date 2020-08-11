@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============== Architect category ============== -->
+  <DesignationCategoryDef>
+    <defName>Rimoleum</defName>
+    <label>Rimoleum</label>
+    <description>Listings of Rimoleum flooring</description>
+    <order>334</order>
+    <specialDesignatorClasses>
+      <li>Designator_Cancel</li>
+      <li>Designator_Deconstruct</li>
+    </specialDesignatorClasses>
+  </DesignationCategoryDef>
+  <!-- ================= Rimoleum ================= -->
+  <TerrainDef Name="RimoleumBase" ParentName="FloorBase" Abstract="True">
+    <researchPrerequisites>
+      <li>Rimoleum</li>
+    </researchPrerequisites>
+    <statBases>
+      <Beauty>2.0</Beauty>
+      <Flammability>0.00</Flammability>
+      <WorkToBuild>400</WorkToBuild>
+      <Cleanliness>0.25</Cleanliness>
+    </statBases>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <designationCategory>Rimoleum</designationCategory>
+    <edgeType>Hard</edgeType>
+  </TerrainDef>
+  <!-- ================================================== -->
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Bamboo</defName>
+    <label>Bamboo Rimoleum Floor</label>
+    <renderPrecedence>214</renderPrecedence>
+    <description>Rimoleum Tile Flooring with a bamboo pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Bamboo</texturePath>
+    <costList>
+      <Rimoleum_Tile_Bamboo>5</Rimoleum_Tile_Bamboo>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Burlap</defName>
+    <label>Burlap Rimoleum Floor</label>
+    <renderPrecedence>215</renderPrecedence>
+    <description>Rimoleum Tile Flooring with a burlap pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Burlap</texturePath>
+    <costList>
+      <Rimoleum_Tile_Burlap>5</Rimoleum_Tile_Burlap>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Carbon</defName>
+    <label>Carbon Rimoleum Floor</label>
+    <renderPrecedence>216</renderPrecedence>
+    <description>Rimoleum Tile Flooring with a carbon fibre pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Carbon</texturePath>
+    <costList>
+      <Rimoleum_Tile_Carbon>5</Rimoleum_Tile_Carbon>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Cork</defName>
+    <label>Cork Rimoleum Floor</label>
+    <renderPrecedence>213</renderPrecedence>
+    <description>Rimoleum Flooring with a cork pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Cork</texturePath>
+    <costList>
+      <Rimoleum_Tile_Cork>5</Rimoleum_Tile_Cork>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Denim</defName>
+    <label>Denim Rimoleum Floor</label>
+    <renderPrecedence>212</renderPrecedence>
+    <description>Rimoleum Flooring with a denim pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Denim</texturePath>
+    <costList>
+      <Rimoleum_Tile_Denim>5</Rimoleum_Tile_Denim>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Fabric</defName>
+    <label>Fabric Rimoleum Floor</label>
+    <renderPrecedence>203</renderPrecedence>
+    <description>Rimoleum Tile Flooring with a fabric pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Fabric</texturePath>
+    <costList>
+      <Rimoleum_Tile_Fabric>5</Rimoleum_Tile_Fabric>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Grate</defName>
+    <label>Grate Rimoleum Floor</label>
+    <renderPrecedence>211</renderPrecedence>
+    <description>Rimoleum Flooring with a grate pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Grate</texturePath>
+    <costList>
+      <Rimoleum_Tile_Grate>5</Rimoleum_Tile_Grate>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Hazard</defName>
+    <label>Hazard Rimoleum Floor</label>
+    <renderPrecedence>217</renderPrecedence>
+    <description>Rimoleum Tile Flooring with a hazard warning pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Hazard</texturePath>
+    <costList>
+      <Rimoleum_Tile_Hazard>5</Rimoleum_Tile_Hazard>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Lush</defName>
+    <label>Lush Rimoleum Floor</label>
+    <renderPrecedence>210</renderPrecedence>
+    <description>Rimoleum Flooring with a lush pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Lush</texturePath>
+    <costList>
+      <Rimoleum_Tile_Lush>5</Rimoleum_Tile_Lush>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Marble</defName>
+    <label>Marble Rimoleum Floor</label>
+    <renderPrecedence>204</renderPrecedence>
+    <description>Rimoleum Tile Flooring with a marble pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Marble</texturePath>
+    <costList>
+      <Rimoleum_Tile_Marble>5</Rimoleum_Tile_Marble>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Rusty</defName>
+    <label>Rusty Rimoleum Floor</label>
+    <renderPrecedence>206</renderPrecedence>
+    <description>Rimoleum Tile Flooring with a rusty pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Rusty</texturePath>
+    <costList>
+      <Rimoleum_Tile_Rusty>5</Rimoleum_Tile_Rusty>
+    </costList>
+  </TerrainDef>
+  <TerrainDef ParentName="RimoleumBase">
+    <defName>RimoleumFloor_Wood</defName>
+    <label>Wooden Rimoleum Floor</label>
+    <renderPrecedence>208</renderPrecedence>
+    <description>Rimoleum Flooring with a wood pattern design.</description>
+    <texturePath>Terrain/Surfaces/Rimoleum_Wood</texturePath>
+    <costList>
+      <Rimoleum_Tile_Wood>5</Rimoleum_Tile_Wood>
+    </costList>
+  </TerrainDef>
+</Defs>

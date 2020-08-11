@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>RimPlas</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[@Name="RimoleumRecipeBase"]/ingredients/li[2]/filter/thingDefs</xpath>
+          <value>
+            <li>RimRayon</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[@Name="RimoleumRecipeBase"]/fixedIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>RimRayon</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/RecipeDef[@Name="RimoleumRecipeBase"]/recipeUsers</xpath>
+          <value>
+            <li>RimPlas_InjMldMachine</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

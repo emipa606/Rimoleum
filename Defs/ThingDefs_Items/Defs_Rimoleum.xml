@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ===================== Category Def ============================= -->
+  <ThingCategoryDef>
+    <defName>Rimoleum</defName>
+    <label>Rimoleum</label>
+    <parent>Manufactured</parent>
+    <iconPath>UI/Icons/ThingCategories/Rimoleum</iconPath>
+    <resourceReadoutRoot>false</resourceReadoutRoot>
+  </ThingCategoryDef>
+  <!-- ======================== Rimoleum Materials =========================== -->
+  <ThingDef ParentName="ResourceBase" Name="RimoleumTileBase" Abstract="True">
+    <graphicData>
+      <texPath>Things/Item/Rimoleum_Tile</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <stackLimit>75</stackLimit>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <MarketValue>3.15</MarketValue>
+      <Mass>0.2</Mass>
+      <Flammability>0.0</Flammability>
+      <DeteriorationRate>0.5</DeteriorationRate>
+    </statBases>
+    <intricate>false</intricate>
+    <thingCategories>
+      <li>Rimoleum</li>
+    </thingCategories>
+    <techLevel>Spacer</techLevel>
+    <tradeTags>
+      <li>ExoticMisc</li>
+    </tradeTags>
+  </ThingDef>
+  <!-- ===== Bamboo Tile ======== -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Bamboo</defName>
+    <label>Rimoleum Tiles (Bamboo)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(255,188,87)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Burlap Tile ======== -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Burlap</defName>
+    <label>Rimoleum Tiles (Burlap)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(93,54,47)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Carbon Tile ======== -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Carbon</defName>
+    <label>Rimoleum Tiles (Carbon)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(0,3,23)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Cork Tile ========= -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Cork</defName>
+    <label>Rimoleum Tiles (Cork)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(117,99,25)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Denim Tile ========= -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Denim</defName>
+    <label>Rimoleum Tiles (Denim)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(77,110,161)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Fabric Tile =========== -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Fabric</defName>
+    <label>Rimoleum Tiles (Fabric)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(202,132,60)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Grate Tile ========= -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Grate</defName>
+    <label>Rimoleum Tiles (Grate)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(77,79,76)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Hazard Tile ======== -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Hazard</defName>
+    <label>Rimoleum Tiles (Hazard)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(255,255,21)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Lush Tile ========= -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Lush</defName>
+    <label>Rimoleum Tiles (Lush)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(98,113,75)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Marble Tile =========== -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Marble</defName>
+    <label>Rimoleum Tiles (Marble)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(212,193,163)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Rusty Tile =========== -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Rusty</defName>
+    <label>Rimoleum Tiles (Rusty)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(63,56,54)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- ===== Wood Tile ========= -->
+  <ThingDef ParentName="RimoleumTileBase">
+    <defName>Rimoleum_Tile_Wood</defName>
+    <label>Rimoleum Tiles (Wood)</label>
+    <description>Rimoleum Tiles used for flooring construction.</description>
+    <graphicData>
+      <color>(152,122,86)</color>
+    </graphicData>
+  </ThingDef>
+  <!-- =============================== Recipes =============================== -->
+  <RecipeDef Name="RimoleumRecipeBase" Abtract="true">
+    <defName>RimoleumTileRcp</defName>
+    <jobString>Making Rimoleum Tiles.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Cremate</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>1000</workAmount>
+    <targetCountAdjustment>50</targetCountAdjustment>
+    <workSkill>Intellectual</workSkill>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Chemfuel</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Synthread</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Chemfuel</li>
+        <li>Synthread</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <recipeUsers>
+      <li>BiofuelRefinery</li>
+    </recipeUsers>
+    <skillRequirements>
+      <Intellectual>7</Intellectual>
+    </skillRequirements>
+    <researchPrerequisite>Rimoleum</researchPrerequisite>
+  </RecipeDef>
+  <!-- ========= Bamboo ========= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumBamboo</defName>
+    <label>Make Rimoleum Tiles (Bamboo)</label>
+    <description>Make 50 Rimoleum Tiles (Bamboo).</description>
+    <products>
+      <Rimoleum_Tile_Bamboo>50</Rimoleum_Tile_Bamboo>
+    </products>
+  </RecipeDef>
+  <!-- ========= Burlap ========= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumBurlap</defName>
+    <label>Make Rimoleum Tiles (Burlap)</label>
+    <description>Make 50 Rimoleum Tiles (Burlap).</description>
+    <products>
+      <Rimoleum_Tile_Burlap>50</Rimoleum_Tile_Burlap>
+    </products>
+  </RecipeDef>
+  <!-- ========= Carbon ========= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumCarbon</defName>
+    <label>Make Rimoleum Tiles (Carbon)</label>
+    <description>Make 50 Rimoleum Tiles (Carbon).</description>
+    <products>
+      <Rimoleum_Tile_Carbon>50</Rimoleum_Tile_Carbon>
+    </products>
+  </RecipeDef>
+  <!-- ================ Cork ======================= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumCork</defName>
+    <label>Make Rimoleum Tiles (Cork)</label>
+    <description>Make 50 Rimoleum Tiles (Cork).</description>
+    <products>
+      <Rimoleum_Tile_Burlap>50</Rimoleum_Tile_Burlap>
+    </products>
+  </RecipeDef>
+  <!-- ================ Denim ======================= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumDenim</defName>
+    <label>Make Rimoleum Tiles (Denim)</label>
+    <description>Make 50 Rimoleum Tiles (Denim).</description>
+    <products>
+      <Rimoleum_Tile_Denim>50</Rimoleum_Tile_Denim>
+    </products>
+  </RecipeDef>
+  <!-- ================ Fabric ======================= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumFabric</defName>
+    <label>Make Rimoleum Tiles (Fabric)</label>
+    <description>Make 50 Rimoleum Tiles (Fabric).</description>
+    <products>
+      <Rimoleum_Tile_Fabric>50</Rimoleum_Tile_Fabric>
+    </products>
+  </RecipeDef>
+  <!-- ================ Grate ======================= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumGrate</defName>
+    <label>Make Rimoleum Tiles (Grate)</label>
+    <description>Make 50 Rimoleum Tiles (Grate).</description>
+    <products>
+      <Rimoleum_Tile_Grate>50</Rimoleum_Tile_Grate>
+    </products>
+  </RecipeDef>
+  <!-- ========= Hazard ========= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumHazard</defName>
+    <label>Make Rimoleum Tiles (Hazard)</label>
+    <description>Make 50 Rimoleum Tiles (Hazard).</description>
+    <products>
+      <Rimoleum_Tile_Hazard>50</Rimoleum_Tile_Hazard>
+    </products>
+  </RecipeDef>
+  <!-- ================ Lush ======================= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumLush</defName>
+    <label>Make Rimoleum Tiles (Lush)</label>
+    <description>Make 50 Rimoleum Tiles (Lush).</description>
+    <products>
+      <Rimoleum_Tile_Lush>50</Rimoleum_Tile_Lush>
+    </products>
+  </RecipeDef>
+  <!-- ================ Marble ======================= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumMarble</defName>
+    <label>Make Rimoleum Tiles (Marble)</label>
+    <description>Make 50 Rimoleum Tiles (Marble).</description>
+    <products>
+      <Rimoleum_Tile_Hazard>50</Rimoleum_Tile_Hazard>
+    </products>
+  </RecipeDef>
+  <!-- ================ Rusty ======================= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumRusty</defName>
+    <label>Make Rimoleum Tiles (Rusty)</label>
+    <description>Make 50 Rimoleum Tiles (Rusty).</description>
+    <products>
+      <Rimoleum_Tile_Rusty>50</Rimoleum_Tile_Rusty>
+    </products>
+  </RecipeDef>
+  <!-- ================ Wood ======================= -->
+  <RecipeDef ParentName="RimoleumRecipeBase">
+    <defName>MakeRimoleumWood</defName>
+    <label>Make Rimoleum Tiles (Wood)</label>
+    <description>Make 50 Rimoleum Tiles (Wood).</description>
+    <products>
+      <Rimoleum_Tile_Wood>50</Rimoleum_Tile_Wood>
+    </products>
+  </RecipeDef>
+</Defs>
