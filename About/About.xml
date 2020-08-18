@@ -9,9 +9,7 @@
     <li>1.2</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter>
-    <li>Mlie.RimPlas</li>
-  </loadAfter>
+  <loadAfter />
   <description>Update of peladors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2004334162
 
