@@ -1,43 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Rimoleum -->
-
   <RimoleumFloor_Bamboo.label>Bamboo Rimoleum Floor</RimoleumFloor_Bamboo.label>
   <RimoleumFloor_Bamboo.description>Rimoleum Tile Flooring with a bamboo pattern design.</RimoleumFloor_Bamboo.description>
-
   <RimoleumFloor_Burlap.label>Burlap Rimoleum Floor</RimoleumFloor_Burlap.label>
   <RimoleumFloor_Burlap.description>Rimoleum Tile Flooring with a burlap pattern design.</RimoleumFloor_Burlap.description>
-
   <RimoleumFloor_Carbon.label>Carbon Rimoleum Floor</RimoleumFloor_Carbon.label>
   <RimoleumFloor_Carbon.description>Rimoleum Tile Flooring with a carbon fibre pattern design.</RimoleumFloor_Carbon.description>
-
   <RimoleumFloor_Cork.label>Cork Rimoleum Floor</RimoleumFloor_Cork.label>
   <RimoleumFloor_Cork.description>Rimoleum Flooring with a cork pattern design.</RimoleumFloor_Cork.description>
-
   <RimoleumFloor_Denim.label>Denim Rimoleum Floor</RimoleumFloor_Denim.label>
   <RimoleumFloor_Denim.description>Rimoleum Flooring with a denim pattern design.</RimoleumFloor_Denim.description>
-
   <RimoleumFloor_Fabric.label>Fabric Rimoleum Floor</RimoleumFloor_Fabric.label>
   <RimoleumFloor_Fabric.description>Rimoleum Tile Flooring with a fabric pattern design.</RimoleumFloor_Fabric.description>
-
   <RimoleumFloor_Grate.label>Grate Rimoleum Floor</RimoleumFloor_Grate.label>
   <RimoleumFloor_Grate.description>Rimoleum Flooring with a grate pattern design.</RimoleumFloor_Grate.description>
-
   <RimoleumFloor_Hazard.label>Hazard Rimoleum Floor</RimoleumFloor_Hazard.label>
   <RimoleumFloor_Hazard.description>Rimoleum Tile Flooring with a hazard warning pattern design.</RimoleumFloor_Hazard.description>
-
   <RimoleumFloor_Lush.label>Lush Rimoleum Floor</RimoleumFloor_Lush.label>
   <RimoleumFloor_Lush.description>Rimoleum Flooring with a lush pattern design.</RimoleumFloor_Lush.description>
-
   <RimoleumFloor_Marble.label>Marble Rimoleum Floor</RimoleumFloor_Marble.label>
   <RimoleumFloor_Marble.description>Rimoleum Tile Flooring with a marble pattern design.</RimoleumFloor_Marble.description>
-
   <RimoleumFloor_Rusty.label>Rusty Rimoleum Floor</RimoleumFloor_Rusty.label>
   <RimoleumFloor_Rusty.description>Rimoleum Tile Flooring with a rusty pattern design.</RimoleumFloor_Rusty.description>
-
   <RimoleumFloor_Wood.label>Wooden Rimoleum Floor</RimoleumFloor_Wood.label>
   <RimoleumFloor_Wood.description>Rimoleum Flooring with a wood pattern design.</RimoleumFloor_Wood.description>
-
-
 </LanguageData>
