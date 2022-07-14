@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Rimoleum (Continued)</name>
   <packageId>Mlie.Rimoleum</packageId>
@@ -11,20 +11,26 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of peladors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2004334162
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+- For detailed description, download the [url=https://github.com/emipa606/Rimoleum/raw/main/Source/RimoleumBrochure.pdf]PDF[/url]
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/Rimoleum][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 [h1]Overview[/h1] V1.1
 
@@ -40,7 +46,7 @@ Rimoleum tiles are made using Chemfuel and Synthread combined in a bio-fuel reac
 
 [h1]Mod Notes[/h1]
 
-Can be added to existing save games. To remove, you&apos;d have to remove all related in game items and terrain.
+Can be added to existing save games. To remove, you'd have to remove all related in game items and terrain.
 
 Spacer Tech: Research project in own research tab.
 
@@ -54,7 +60,7 @@ RimPlas - will use RimRayon instead of Synthread, can also make the tiles in the
 (CC BY-NC-SA 4.0)
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -65,4 +71,3 @@ RimPlas - will use RimRayon instead of Synthread, can also make the tiles in the
 [/list]
 </description>
 </ModMetaData>
-
