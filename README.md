@@ -1,23 +1,16 @@
 # Rimoleum
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of peladors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2004334162
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+- For detailed description, download the https://github.com/emipa606/Rimoleum/raw/main/Source/RimoleumBrochure.pdf]PDF
 
+![Image](https://i.imgur.com/pufA0kM.png)
 
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/Rimoleum]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 # Overview
@@ -37,7 +30,7 @@ Rimoleum tiles are made using Chemfuel and Synthread combined in a bio-fuel reac
 # Mod Notes
 
 
-Can be added to existing save games. To remove, you&apos;d have to remove all related in game items and terrain.
+Can be added to existing save games. To remove, you'd have to remove all related in game items and terrain.
 
 Spacer Tech: Research project in own research tab.
 
@@ -52,7 +45,7 @@ RimPlas - will use RimRayon instead of Synthread, can also make the tiles in the
 (CC BY-NC-SA 4.0)
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -62,6 +55,7 @@ RimPlas - will use RimRayon instead of Synthread, can also make the tiles in the
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
