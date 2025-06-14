@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2974381119
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 905e779f0fcb1540232d01805e2908df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 905e779f0fcb1540232d01805e2908df
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Wood.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Things/Item/Rimoleum_Tile/Rimoleum_Tile_c.png
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Carbon.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Rusty.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Things/Item/Rimoleum_Tile/Rimoleum_Tile_a.png
+- Assets/Data/Mlie.Rimoleum/Textures/UI/Icons/ThingCategories/Rimoleum.png
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Hazard.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Marble.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Grate.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Burlap.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Bamboo.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Denim.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Lush.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Fabric.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Terrain/Surfaces/Rimoleum_Cork.jpg
+- Assets/Data/Mlie.Rimoleum/Textures/Things/Item/Rimoleum_Tile/Rimoleum_Tile_b.png
+Dependencies: []

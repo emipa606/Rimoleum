@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Make Rimoleum Tiles (Bamboo) -->
+  <MakeRimoleumBamboo.label>Make Rimoleum Tiles (Bamboo)</MakeRimoleumBamboo.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Bamboo). -->
+  <MakeRimoleumBamboo.description>Make 50 Rimoleum Tiles (Bamboo).</MakeRimoleumBamboo.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumBamboo.jobString>Making Rimoleum Tiles.</MakeRimoleumBamboo.jobString>
+  <!-- EN: Make Rimoleum Tiles (Burlap) -->
+  <MakeRimoleumBurlap.label>Make Rimoleum Tiles (Burlap)</MakeRimoleumBurlap.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Burlap). -->
+  <MakeRimoleumBurlap.description>Make 50 Rimoleum Tiles (Burlap).</MakeRimoleumBurlap.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumBurlap.jobString>Making Rimoleum Tiles.</MakeRimoleumBurlap.jobString>
+  <!-- EN: Make Rimoleum Tiles (Carbon) -->
+  <MakeRimoleumCarbon.label>Make Rimoleum Tiles (Carbon)</MakeRimoleumCarbon.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Carbon). -->
+  <MakeRimoleumCarbon.description>Make 50 Rimoleum Tiles (Carbon).</MakeRimoleumCarbon.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumCarbon.jobString>Making Rimoleum Tiles.</MakeRimoleumCarbon.jobString>
+  <!-- EN: Make Rimoleum Tiles (Cork) -->
+  <MakeRimoleumCork.label>Make Rimoleum Tiles (Cork)</MakeRimoleumCork.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Cork). -->
+  <MakeRimoleumCork.description>Make 50 Rimoleum Tiles (Cork).</MakeRimoleumCork.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumCork.jobString>Making Rimoleum Tiles.</MakeRimoleumCork.jobString>
+  <!-- EN: Make Rimoleum Tiles (Denim) -->
+  <MakeRimoleumDenim.label>Make Rimoleum Tiles (Denim)</MakeRimoleumDenim.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Denim). -->
+  <MakeRimoleumDenim.description>Make 50 Rimoleum Tiles (Denim).</MakeRimoleumDenim.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumDenim.jobString>Making Rimoleum Tiles.</MakeRimoleumDenim.jobString>
+  <!-- EN: Make Rimoleum Tiles (Fabric) -->
+  <MakeRimoleumFabric.label>Make Rimoleum Tiles (Fabric)</MakeRimoleumFabric.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Fabric). -->
+  <MakeRimoleumFabric.description>Make 50 Rimoleum Tiles (Fabric).</MakeRimoleumFabric.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumFabric.jobString>Making Rimoleum Tiles.</MakeRimoleumFabric.jobString>
+  <!-- EN: Make Rimoleum Tiles (Grate) -->
+  <MakeRimoleumGrate.label>Make Rimoleum Tiles (Grate)</MakeRimoleumGrate.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Grate). -->
+  <MakeRimoleumGrate.description>Make 50 Rimoleum Tiles (Grate).</MakeRimoleumGrate.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumGrate.jobString>Making Rimoleum Tiles.</MakeRimoleumGrate.jobString>
+  <!-- EN: Make Rimoleum Tiles (Hazard) -->
+  <MakeRimoleumHazard.label>Make Rimoleum Tiles (Hazard)</MakeRimoleumHazard.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Hazard). -->
+  <MakeRimoleumHazard.description>Make 50 Rimoleum Tiles (Hazard).</MakeRimoleumHazard.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumHazard.jobString>Making Rimoleum Tiles.</MakeRimoleumHazard.jobString>
+  <!-- EN: Make Rimoleum Tiles (Lush) -->
+  <MakeRimoleumLush.label>Make Rimoleum Tiles (Lush)</MakeRimoleumLush.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Lush). -->
+  <MakeRimoleumLush.description>Make 50 Rimoleum Tiles (Lush).</MakeRimoleumLush.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumLush.jobString>Making Rimoleum Tiles.</MakeRimoleumLush.jobString>
+  <!-- EN: Make Rimoleum Tiles (Marble) -->
+  <MakeRimoleumMarble.label>Make Rimoleum Tiles (Marble)</MakeRimoleumMarble.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Marble). -->
+  <MakeRimoleumMarble.description>Make 50 Rimoleum Tiles (Marble).</MakeRimoleumMarble.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumMarble.jobString>Making Rimoleum Tiles.</MakeRimoleumMarble.jobString>
+  <!-- EN: Make Rimoleum Tiles (Rusty) -->
+  <MakeRimoleumRusty.label>Make Rimoleum Tiles (Rusty)</MakeRimoleumRusty.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Rusty). -->
+  <MakeRimoleumRusty.description>Make 50 Rimoleum Tiles (Rusty).</MakeRimoleumRusty.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumRusty.jobString>Making Rimoleum Tiles.</MakeRimoleumRusty.jobString>
+  <!-- EN: Make Rimoleum Tiles (Wood) -->
+  <MakeRimoleumWood.label>Make Rimoleum Tiles (Wood)</MakeRimoleumWood.label>
+  <!-- EN: Make 50 Rimoleum Tiles (Wood). -->
+  <MakeRimoleumWood.description>Make 50 Rimoleum Tiles (Wood).</MakeRimoleumWood.description>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <MakeRimoleumWood.jobString>Making Rimoleum Tiles.</MakeRimoleumWood.jobString>
+  <!-- EN: Making Rimoleum Tiles. -->
+  <RimoleumTileRcp.jobString>Making Rimoleum Tiles.</RimoleumTileRcp.jobString>
+</LanguageData>

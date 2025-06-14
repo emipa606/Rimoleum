@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bamboo Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Bamboo.label>Bamboo Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Bamboo.label>
+  <!-- EN: Burlap Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Burlap.label>Burlap Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Burlap.label>
+  <!-- EN: Carbon Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Carbon.label>Carbon Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Carbon.label>
+  <!-- EN: Cork Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Cork.label>Cork Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Cork.label>
+  <!-- EN: Denim Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Denim.label>Denim Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Denim.label>
+  <!-- EN: Fabric Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Fabric.label>Fabric Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Fabric.label>
+  <!-- EN: Grate Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Grate.label>Grate Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Grate.label>
+  <!-- EN: Hazard Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Hazard.label>Hazard Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Hazard.label>
+  <!-- EN: Lush Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Lush.label>Lush Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Lush.label>
+  <!-- EN: Marble Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Marble.label>Marble Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Marble.label>
+  <!-- EN: Rusty Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Rusty.label>Rusty Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Rusty.label>
+  <!-- EN: Wooden Rimoleum Floor (blueprint) -->
+  <Blueprint_RimoleumFloor_Wood.label>Wooden Rimoleum Floor (blueprint)</Blueprint_RimoleumFloor_Wood.label>
+  <!-- EN: Bamboo Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Bamboo.label>Bamboo Rimoleum Floor (building)</Frame_RimoleumFloor_Bamboo.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Bamboo.description>Terrain building in progress.</Frame_RimoleumFloor_Bamboo.description>
+  <!-- EN: Burlap Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Burlap.label>Burlap Rimoleum Floor (building)</Frame_RimoleumFloor_Burlap.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Burlap.description>Terrain building in progress.</Frame_RimoleumFloor_Burlap.description>
+  <!-- EN: Carbon Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Carbon.label>Carbon Rimoleum Floor (building)</Frame_RimoleumFloor_Carbon.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Carbon.description>Terrain building in progress.</Frame_RimoleumFloor_Carbon.description>
+  <!-- EN: Cork Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Cork.label>Cork Rimoleum Floor (building)</Frame_RimoleumFloor_Cork.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Cork.description>Terrain building in progress.</Frame_RimoleumFloor_Cork.description>
+  <!-- EN: Denim Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Denim.label>Denim Rimoleum Floor (building)</Frame_RimoleumFloor_Denim.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Denim.description>Terrain building in progress.</Frame_RimoleumFloor_Denim.description>
+  <!-- EN: Fabric Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Fabric.label>Fabric Rimoleum Floor (building)</Frame_RimoleumFloor_Fabric.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Fabric.description>Terrain building in progress.</Frame_RimoleumFloor_Fabric.description>
+  <!-- EN: Grate Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Grate.label>Grate Rimoleum Floor (building)</Frame_RimoleumFloor_Grate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Grate.description>Terrain building in progress.</Frame_RimoleumFloor_Grate.description>
+  <!-- EN: Hazard Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Hazard.label>Hazard Rimoleum Floor (building)</Frame_RimoleumFloor_Hazard.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Hazard.description>Terrain building in progress.</Frame_RimoleumFloor_Hazard.description>
+  <!-- EN: Lush Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Lush.label>Lush Rimoleum Floor (building)</Frame_RimoleumFloor_Lush.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Lush.description>Terrain building in progress.</Frame_RimoleumFloor_Lush.description>
+  <!-- EN: Marble Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Marble.label>Marble Rimoleum Floor (building)</Frame_RimoleumFloor_Marble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Marble.description>Terrain building in progress.</Frame_RimoleumFloor_Marble.description>
+  <!-- EN: Rusty Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Rusty.label>Rusty Rimoleum Floor (building)</Frame_RimoleumFloor_Rusty.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Rusty.description>Terrain building in progress.</Frame_RimoleumFloor_Rusty.description>
+  <!-- EN: Wooden Rimoleum Floor (building) -->
+  <Frame_RimoleumFloor_Wood.label>Wooden Rimoleum Floor (building)</Frame_RimoleumFloor_Wood.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_RimoleumFloor_Wood.description>Terrain building in progress.</Frame_RimoleumFloor_Wood.description>
+</LanguageData>
