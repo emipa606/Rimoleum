@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="Rimoleum_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2194437011</linkUrl>
+		<banner>UpdateInfo/Rimoleum</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="Rimoleum_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>Rimoleum_1_5_0</defName>
+		<date>2025/6/14</date>
+		<content>This mod has been re-released for the new version of the game. This version will remain but will not be updated further.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Rimoleum (Continued)</name>
+  <name>[Legacy] Rimoleum (Continued)</name>
   <packageId>Mlie.Rimoleum</packageId>
   <author>pelador</author>
   <url>https://github.com/emipa606/Rimoleum</url>
@@ -17,14 +17,18 @@
 Update of peladors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2004334162
 
-- For detailed description, download the [url=https://github.com/emipa606/Rimoleum/raw/main/Source/RimoleumBrochure.pdf]PDF[/url]
+[b]The release of RimWorld 1.6 added improved support for [url=https://github.com/emipa606/AssetBuilder/blob/main/README.md]Asset Bundles[/url].[/b]
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the new version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3499058572]here[/url].
+This version will not receive any further updates.
+
+- For detailed description, download the [url=https://github.com/emipa606/Rimoleum/tree/legacy/raw/main/Source/RimoleumBrochure.pdf]PDF[/url]
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
-		[td][url=https://github.com/emipa606/Rimoleum][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/Rimoleum/tree/legacy][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
@@ -71,7 +75,8 @@ RimPlas - will use RimRayon instead of Synthread, can also make the tiles in the
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2194437011][img]https://img.shields.io/github/v/release/emipa606/Rimoleum?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>
