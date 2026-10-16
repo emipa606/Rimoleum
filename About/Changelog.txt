@@ -1,5 +1,8 @@
 # Changelog for Rimoleum
 
+1.6.3 - Last update of the AssetBundle version of the mod
+
+
 1.6.2 - Reupload with fixed asset bundle, terrain has specific bundle-properties
 
 
